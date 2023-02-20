@@ -1,9 +1,10 @@
 #include <stdio.h>
-
-/*
- * main - prints alphabets in reverse and i dont like betty
- * Return: Always 0
+/**
+ * main - Entry - point
+ *
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char le;
