@@ -4,8 +4,9 @@
  *
  * Return: Always 0.
 */
-int main(void)
+int times_table(int a, int b)
 	{
-	    times_table();
-	    return (0);
+	int c;
+	   c = a*b
+	    return (c);
 	}
